@@ -1,0 +1,267 @@
+Cmp-Mod V01 Created by PcbNew   date = Sunday, March 10, 2019 at 11:02:40 AM
+
+BeginCmp
+TimeStamp = 5C9138D8
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm_Pad;
+IdModule  = MountingHole:MountingHole_3mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC0C
+Path = /5A4EEBDF
+Reference = C1;
+ValeurCmp = .1uf;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC12
+Path = /5A4EEB62
+Reference = C2;
+ValeurCmp = 1uf;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC18
+Path = /5A4EEC9F
+Reference = C3;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC1E
+Path = /5A4EED01
+Reference = C4;
+ValeurCmp = 2.2uf;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC25
+Path = /5A4E8397
+Reference = J1;
+ValeurCmp = Barrel_Jack;
+IdModule  = Connectors:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC2E
+Path = /5A4F212A
+Reference = J2;
+ValeurCmp = Conn_01x05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC36
+Path = /5A4E8711
+Reference = J3;
+ValeurCmp = Screw_Terminal_01x04;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC3E
+Path = /5A4E87C0
+Reference = J4;
+ValeurCmp = Screw_Terminal_01x04;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC4A
+Path = /5A4E8546
+Reference = Q1;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC56
+Path = /5A4E8586
+Reference = Q2;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC62
+Path = /5A4E85BB
+Reference = Q3;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC6E
+Path = /5A4E85F9
+Reference = Q4;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC7A
+Path = /5A4E8628
+Reference = Q5;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC86
+Path = /5A4E865F
+Reference = Q6;
+ValeurCmp = IRF7403;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC8C
+Path = /5A4F0F95
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC92
+Path = /5A4E6E11
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC98
+Path = /5A4F1B64
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDC9E
+Path = /5A4F1C01
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCA4
+Path = /5A4E89DA
+Reference = R5;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCAA
+Path = /5A4E8A40
+Reference = R6;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCB0
+Path = /5A4E8A85
+Reference = R7;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCB6
+Path = /5A4E8ACC
+Reference = R8;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCBC
+Path = /5A4E8BA6
+Reference = R9;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCC2
+Path = /5A4E8BF4
+Reference = R10;
+ValeurCmp = 100R;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCC8
+Path = /5A4EDB2E
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCCE
+Path = /5A4EDB98
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCD4
+Path = /5A4EDBF4
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCDA
+Path = /5A4EDC4F
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCE0
+Path = /5A4EDCB3
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCE6
+Path = /5A4EDD12
+Reference = R16;
+ValeurCmp = 10k;
+IdModule  = Resistors:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDCEE
+Path = /5A4E81DD
+Reference = U1;
+ValeurCmp = LM1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A4EDE8E
+Path = /5A4E6D6B
+Reference = U2;
+ValeurCmp = ESP-12Q;
+IdModule  = ESP8266:ESP-12E_SMD;
+EndCmp
+
+EndListe
