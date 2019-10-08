@@ -1,0 +1,10 @@
+// Please input the SSID and password of WiFi
+const char* ssid     = "SSID";
+const char* password = "PASSWORD";
+
+// MDNS hostname
+const char *host = "esp8266_kitchen";
+
+const char *mqttHost = "raspberrypi";
+
+const char *subscription = "/kitchen/color";

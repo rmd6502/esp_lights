@@ -755,20 +755,16 @@ Green2
 Text GLabel 5150 5000 2    50   Input ~ 0
 Blue2
 $Comp
-L Connector:Conn_01x06_Female J2
+L Connector:Conn_01x07_Female J2
 U 1 1 5C876F21
 P 5750 1200
 F 0 "J2" H 5777 1176 50  0000 L CNN
-F 1 "Conn_01x06_Female" H 5777 1085 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 5750 1200 50  0001 C CNN
+F 1 "Conn_01x07_Female" H 5777 1085 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 5750 1200 50  0001 C CNN
 F 3 "~" H 5750 1200 50  0001 C CNN
 	1    5750 1200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5550 1000 5550 900 
-Wire Wire Line
-	5550 900  4900 900 
 Text GLabel 4900 900  0    50   Input ~ 0
 GPIO0
 $Comp
@@ -2631,4 +2627,20 @@ F 3 "~" H 2650 3050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2950 3050 3000 3050
+Text Label 2550 2750 0    50   ~ 0
+~Reset
+Wire Wire Line
+	4900 900  5300 900 
+Wire Wire Line
+	5300 900  5300 1000
+Wire Wire Line
+	5300 1000 5550 1000
+Wire Wire Line
+	5550 900  5400 900 
+Wire Wire Line
+	5400 900  5400 750 
+Wire Wire Line
+	5400 750  4900 750 
+Text Label 5000 750  0    50   ~ 0
+~Reset
 $EndSCHEMATC
